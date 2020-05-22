@@ -11,6 +11,8 @@ title: Summer 2020 DREU Project Site
 TBC
 
 ## About My Mentor
+![alt text][logo]
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 Raja Kushalnagar, who is deaf, is the co-lead investigator and scientific lead. He is an associate professor and Director of the Information Technology Program within the Department of Science, Technology and Mathematics at Gallaudet University. He earned his Ph.D. in Computer Science at the University of Houston, and his J.D. at Texas Southern University. He has conducted numerous qualitative and quantitative accessibility studies, especially related to captioning. Dr. Kushalnagar also has extensive experience managing undergraduate research through directing a Research Experience for Undergraduates Site program on Accessible Multimodal Interfaces. He has served on the FCC’s Consumer Advisory Committee on matters related to disability access. Three of his students have gone on to PhD programs and received the prestigious NSF Graduate Research Fellowship. 
 
