@@ -6,13 +6,14 @@ title: Summer 2020 DREU Project Site
 * TOC
 {:toc}
 
+[My Blog](blog.html)
+
+
 ## About Me
 
-TBC
+Hello readers, welcome to my DREU Project blog!  My name is Mike Tota, currently a senior at Gallaudet University majoring in Information Technology.  I will graduate with a Bachelor of Science in Information Technology this August.  Growing up, I've always had a natural interest in computers, and often was the person my family depended on when they had technical issues with the devices, software, etc you name it.  With this natural knowledge, I am passionate about continuing and expanding my knowledge and skillsets to contribute to the society, future company/agency, or organization.
 
 ## About My Mentor
-![alt text][logo]
-[logo]: https://github.com/gallymike/gallymike.github.io/master/images/raja-kushalnagar.png "Raja Kushalnagar"
 
 Raja Kushalnagar, who is deaf, is the co-lead investigator and scientific lead. He is an associate professor and Director of the Information Technology Program within the Department of Science, Technology and Mathematics at Gallaudet University. He earned his Ph.D. in Computer Science at the University of Houston, and his J.D. at Texas Southern University. He has conducted numerous qualitative and quantitative accessibility studies, especially related to captioning. Dr. Kushalnagar also has extensive experience managing undergraduate research through directing a Research Experience for Undergraduates Site program on Accessible Multimodal Interfaces. He has served on the FCC’s Consumer Advisory Committee on matters related to disability access. Three of his students have gone on to PhD programs and received the prestigious NSF Graduate Research Fellowship. 
 
