@@ -7,7 +7,7 @@ title: Summer 2020 DREU Project Site
 {:toc}
 
 Weekly Reports
-[My Blog](blog.html)
+[Week 1](week1.html)
 
 
 ## About Me
