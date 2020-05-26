@@ -6,10 +6,6 @@ title: Summer 2020 DREU Project Site
 * TOC
 {:toc}
 
-Weekly Reports
-
-
-
 ## About Me
 
 Hello readers, welcome to my DREU Project blog!  My name is Mike Tota, currently a senior at Gallaudet University majoring in Information Technology.  I will graduate with a Bachelor of Science in Information Technology this August.  Growing up, I've always had a natural interest in computers, and often was the person my family depended on when they had technical issues with the devices, software, etc you name it.  With this natural knowledge, I am passionate about continuing and expanding my knowledge and skillsets to contribute to the society, future company/agency, or organization.
