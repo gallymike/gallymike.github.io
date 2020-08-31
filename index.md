@@ -18,7 +18,7 @@ Raja Kushalnagar, who is deaf, is the co-lead investigator and scientific lead. 
 
 Captioning for teleconferencing is essential for the 36 million Americans who are deaf or hard of hearing. Access to teleconference captions has a direct impact on participation in society, especially for those working or studying from home during the covid-19 pandemic era. We are in the middle of a disruptive transition to computer-generated captions that can be viewed anywhere, anytime, including through teleconferencing These new technologies create different types of caption errors, compared with human-generated captioning techniques that have evolved over 40 years. As a result, there has been much consumer frustration. With these new technologies, it is critical to understand how caption errors impact consumers who rely on human and computer generated captions.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/finalpaper.pdf)
 
 ## My Blog
 
